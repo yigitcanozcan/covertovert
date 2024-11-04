@@ -6,8 +6,9 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
-
+Yiğitcan Özcan 2521847
+Sogol Mehrabi 2547321
+Group 30
 
 .. toctree::
    :maxdepth: 2
